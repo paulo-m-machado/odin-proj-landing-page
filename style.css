@@ -1,0 +1,24 @@
+.hero {
+    background-color: #1F2937;
+    color: #f9faf8;
+    margin: 0;
+    padding: 16px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
